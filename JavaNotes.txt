@@ -1,2 +1,19 @@
-Q. What is Java?
+# What is Java?
 - Java is a class-based, object-oriented programming language and is designed to have as few implementation dependencies as possible.
+
+# Primary/Main Features of Java:
+1. Platform Independent
+2. OOP Language
+- Four main concepts of OOP are:
++ Abstraction + Encapsulation + Inheritance + Polymorphism
+3. Simple
+4. Robust
+5. Secure
+6. Distributed
+7. Multithreading
+8. Portable
+9. High Performance
+10. Dynamic flexibility
+11. Sandbox Execution
+12. Write once run anywhere
+13. Power of compilation and interpretation
