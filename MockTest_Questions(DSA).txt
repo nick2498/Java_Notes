@@ -1,19 +1,3 @@
-🔗 Theory Questions: (EASY)
-Q. What is an array in Java? Types of arrays in java?
-Q. Is it possible to declare array size as negative? Why?
-Q. What is the default value of the array?
-Q. Various syntaxes of declaring arrays.
-Q. What is sorting? What are sorting algorithms? Give time complexity of all.
-Q. Which algorithm do you prefer for the sorting elements?
-Q. What is hashing? 
-Q. What is HashMap and HashSet?
-Q. What is hashing algorithm? How does it work?
-Q. What is searching? What are different searching algorithms?
-Q. What is Hash Collision?
-Q. Difference between linear and binary search algorithms.
-Q. What is Bubble sort?
-Q. What is Binary search?
-
 🔗 DSA Problems: (EASY)
 Q. WAP to find second largest number in array. 
    Input: arr = {12,35,1,10,34} Output: 34
@@ -23,7 +7,7 @@ Q. WAP to Implement Bubble sort and discuss it's Time Complexity.
 Q. Find the non repeating element in the array.
    Input: [1,2,3,3,4,2] Output: 1,4
 Q. Search an element in array.
-   Input: [1,3,5,7] TARGET: 5 Output: 2
+   Input: [1,3,5,7] Target: 5 Output: 2
 Q. Remove duplicates from the array or print all the unique elements in the array.
    Input: [1,2,2,3,4,4] Output: 1,2,3,4
 Q. Find max and min in an array.
@@ -34,3 +18,10 @@ Q. Find all the elements which are occurring more than once in the given array.
    Input: [1,2,3,2,4,4] Output: 2,4
 Q. WAP to find largest element in an array.
    Input: [10,30,20,44] Output: 44
+Q. WAP to print uniques characters from a string.
+   Input: Geeks for Geeks Output: for | Input: Hello Geeks Output: HoGks
+Q. Sort the array in way all odd numbers came first in ascending order and all even numbers came in descending order.
+   Input: [1,2,3,4,5,6] Output: odd = 1,3,5 even = 6,4,2
+Q. Find all pairs whose elements sum is equal to the target sum.
+   Input:[1,5,7,-1,5] Target: 6 Output: (1,5) (7,-1) (1,5)
+    
