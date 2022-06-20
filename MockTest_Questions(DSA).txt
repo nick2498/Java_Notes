@@ -1,4 +1,6 @@
 🔗 DSA Problems: (EASY)
+Q. WAP to print array in reverse order?
+   Input: {4,6,2,1,5} Output: {5,1,2,6,4}
 Q. WAP to find second largest number in array. 
    Input: arr = {12,35,1,10,34} Output: 34
 Q. WAP to reverse an array. 
